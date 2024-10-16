@@ -1,0 +1,5 @@
+com\craftdemo\crud\example\controller\ProductController.class
+com\craftdemo\crud\example\entity\Product.class
+com\craftdemo\crud\example\SpringBootCrudExample2Application.class
+com\craftdemo\crud\example\service\ProductService.class
+com\craftdemo\crud\example\repository\ProductRepository.class
